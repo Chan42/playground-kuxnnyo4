@@ -1,5 +1,5 @@
 # Welcome!
-``` javascript
+``` javascript runnable
 console.log('Hello World!');
 ```
 This Nodejs template lets you get started quickly with a simple working example using npm. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
