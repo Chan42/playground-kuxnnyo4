@@ -1,6 +1,18 @@
 # Welcome!
 ``` javascript runnable
 console.log('Hello World!');
+<script>
+function createParagraph() {
+  let para = document.createElement('p');
+  para.textContent = 'Hello Word !';
+  document.body.appendChild(para);
+}
+</script>
+<button onclick="createParagraph()">Cliquez-moi!</button>
+</div>
+
+html
+<button onclick="createParagraph()">Cliquez-moi!</button>
 ```
 This Nodejs template lets you get started quickly with a simple working example using npm. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
 
